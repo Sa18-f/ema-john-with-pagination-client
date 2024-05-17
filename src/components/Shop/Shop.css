@@ -32,3 +32,6 @@
 .pagination button{
     margin-right: 10px;
 }
+.pagination .selected{
+    background-color: #FF9900;
+}
